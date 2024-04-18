@@ -1,8 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Akash Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">Looking for Internship</h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
-- 🌱 I’m currently learning **JavaScript, DSA in C++**
+- 🌱 I’m currently learning **JavaScript, React, DSA in C++**
 
 - 👨‍💻 All of my projects are available at [https://akash6810.github.io/My-Portfolio/](https://akash6810.github.io/My-Portfolio/)
 
